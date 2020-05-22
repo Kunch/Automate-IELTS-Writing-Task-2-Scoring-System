@@ -4,5 +4,5 @@ Why this is important?
 
 Data set from ASAP Kaggle competition : https://www.kaggle.com/c/asap-aes/data
 
-Out put 
-![Image description](link-to-image)
+
+![Out put ](https://github.com/Kunch/Automate-IELTS-Writing-Task-2-Scoring-System/blob/master/image.png)
